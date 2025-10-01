@@ -12,8 +12,7 @@ A machine learning system for recognizing handwritten digits using a neural netw
 - [Model Architecture](#model-architecture)
 - [Code Logic](#code-logic)
 - [Performance](#performance)
-- [Testing](#testing)
-- [Contributing](#contributing)
+
 
 ## 🎯 Overview
 
@@ -334,25 +333,3 @@ python -c "from autils import load_data; import tensorflow as tf; ..."
 - **Data Augmentation**: Add image augmentation for better generalization
 - **API Development**: Create REST API for model serving
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests for new functionality
-5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 📞 Support
-
-For questions or issues:
-1. Check the troubleshooting section
-2. Review the code documentation
-3. Create an issue in the repository
-
----
-
-**Note**: This system is designed for educational and research purposes. For production use, consider additional validation, monitoring, and security measures.
